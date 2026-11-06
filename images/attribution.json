@@ -1,4 +1,13 @@
 {
+  "projects/lightvln-cover.png": {
+    "subject": "LightVLN author-provided project cover",
+    "source": "Author-provided cover submitted by Yiming Zhao on 2026-11-03",
+    "project": "https://lightvln-aerial-navigation.warmgame4.chatgpt.site/",
+    "paper": "https://arxiv.org/abs/2610.05024",
+    "credit": "Yiming Zhao and the LightVLN authors",
+    "retrieved": "2026-11-06",
+    "usage": "Provided by Yiming Zhao for the OMEGA Lab project showcase. Original image, with labels and aspect ratio preserved. Campus simulation and onboard-compute HIL with virtual UAV motion; no real-flight claim."
+  },
   "xinhu-zheng.jpg": {
     "subject": "Xinhu Zheng",
     "source": "https://gzcms.hkust-gz.edu.cn/itdobs/preview/cms/prod/constancehwt/20241018/104932/%E9%83%91%E5%BF%83%E6%B9%96.jpg",
