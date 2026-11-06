@@ -1,4 +1,14 @@
 {
+  "research/unit-overview.jpg": {
+    "subject": "UniT animated overview, complete overview frame",
+    "source": "https://omega-hkustgz.github.io/projects/unit/assets/media/intro.mp4",
+    "originalSource": "https://sc2i-hkustgz.github.io/UniT/assets/videos/intro.mp4",
+    "paper": "https://arxiv.org/abs/2605.21131",
+    "credit": "The UniT authors",
+    "retrieved": "2026-11-06",
+    "derivedVideo": "/videos/unit-overview.mp4",
+    "usage": "Poster at 33 seconds; silent overview loop excerpted from 14 to 34 seconds of the hosted author introduction. Original framing and labels preserved. Shows input configurations, optional modalities, memory scaling and metric-scale perception; rights remain with the authors."
+  },
   "projects/lightvln-cover.png": {
     "subject": "LightVLN author-provided project cover",
     "source": "Author-provided cover submitted by Yiming Zhao on 2026-11-03",
