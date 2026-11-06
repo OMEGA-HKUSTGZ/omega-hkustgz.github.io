@@ -142,5 +142,13 @@
     "credit": "The respective paper authors",
     "retrieved": "2026-09-18",
     "usage": "Frame from the authors’ demonstration video. Preserve aspect ratio; rights remain with the respective authors."
+  },
+  "projects/transmeme-cover.png": {
+    "subject": "TransMeme multi-agent framework overview",
+    "source": "Author-provided image submitted by Jingyi Zheng (Jingyi62) on 2026-11-06 for the OMEGA Lab project showcase.",
+    "paper": "https://arxiv.org/abs/2608.27127",
+    "credit": "Jingyi Zheng and the TransMeme authors; example meme imagery belongs to its respective rights holders.",
+    "retrieved": "2026-11-07",
+    "usage": "Original PNG preserved byte-for-byte (1744 × 590 pixels; displayed at 872 × 295 in the author submission). Full workflow, labels and aspect ratio retained. No broader image licence is asserted."
   }
 }
